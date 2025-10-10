@@ -7,3 +7,4 @@ requests
 beautifulsoup4
 regex
 PyPDF2
+seaborn
