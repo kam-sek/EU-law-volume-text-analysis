@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+selenium
+webdriver-manager
+requests
+beautifulsoup4
+regex
+PyPDF2
